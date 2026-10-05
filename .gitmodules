@@ -1,0 +1,3 @@
+[submodule "probe"]
+	path = probe
+	url = ext::sh -c echo% PROBE-A-FIRED
